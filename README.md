@@ -1,2 +1,0 @@
-# CarePure
-A healthcare app
